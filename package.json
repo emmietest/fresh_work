@@ -5,8 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "deploy": "next build && touch out/.nojekyll"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",

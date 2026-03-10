@@ -3,7 +3,7 @@
 import { useComparison } from "@/context/comparison-context"
 import { useWishlist } from "@/context/wishlist-context"
 import { Button } from "@/components/ui/button"
-import { Header } from "@/components/header"
+import { TopBar, Navbar } from "@/components/header"
 import { Footer } from "@/components/footer"
 import Image from "next/image"
 import Link from "next/link"
@@ -15,7 +15,8 @@ export default function ComparePage() {
   if (compareList.length === 0) {
     return (
       <>
-        <Header />
+        <TopBar />
+        <Navbar />
         <main className="min-h-screen bg-background">
           <div className="max-w-7xl mx-auto px-4 py-16">
             <div className="text-center">
@@ -44,7 +45,8 @@ export default function ComparePage() {
 
   return (
     <>
-      <Header />
+      <TopBar />
+      <Navbar />
       <main className="min-h-screen bg-background">
         <div className="max-w-7xl mx-auto px-4 py-12">
           {/* Header */}
