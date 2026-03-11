@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58730,["/_next/static/chunks/21020083c5934b44.js","/_next/static/chunks/423f6a52037eb7eb.js","/_next/static/chunks/36f8386969d5712b.js","/_next/static/chunks/8850c75f79a345d0.js"],"default"]
+3:I[35417,["/_next/static/chunks/26ca110782d86623.js","/_next/static/chunks/81f0f13d25d49d65.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"WYLJsq6_mUBu8hvfLQlAW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"15","name":"Lunch Box","category":"Accessories","price":18.99,"image":"/images/product-tshirt.jpg","rating":4.7,"reviews":276,"inStock":true,"description":"Insulated lunch box container","specs":{"material":"Stainless Steel & Neoprene","color":"Black, Blue","size":"9\" x 6\" x 6\"","printArea":"Top Print"},"personalizationOptions":["Screen Print","Vinyl"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/423f6a52037eb7eb.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/36f8386969d5712b.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/8850c75f79a345d0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58730,["/_next/static/chunks/21020083c5934b44.js","/_next/static/chunks/423f6a52037eb7eb.js","/_next/static/chunks/36f8386969d5712b.js","/_next/static/chunks/8850c75f79a345d0.js"],"default"]
+3:I[35417,["/_next/static/chunks/26ca110782d86623.js","/_next/static/chunks/81f0f13d25d49d65.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"WYLJsq6_mUBu8hvfLQlAW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"4","name":"Canvas Tote Bag","category":"Bags","price":9.99,"image":"/images/product-totebag.jpg","rating":4.7,"reviews":312,"inStock":true,"description":"Durable canvas tote bag for shopping and events","specs":{"material":"100% Cotton Canvas","color":"Natural","size":"15\" x 16\"","printArea":"Front 12\" x 14\""},"personalizationOptions":["Front Print","Back Print"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/423f6a52037eb7eb.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/36f8386969d5712b.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/8850c75f79a345d0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

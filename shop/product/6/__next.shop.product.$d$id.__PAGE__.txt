@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58730,["/_next/static/chunks/21020083c5934b44.js","/_next/static/chunks/423f6a52037eb7eb.js","/_next/static/chunks/36f8386969d5712b.js","/_next/static/chunks/8850c75f79a345d0.js"],"default"]
+3:I[35417,["/_next/static/chunks/26ca110782d86623.js","/_next/static/chunks/81f0f13d25d49d65.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"WYLJsq6_mUBu8hvfLQlAW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"6","name":"Hoodie Sweatshirt","category":"Apparel","price":24.99,"originalPrice":39.99,"image":"/images/product-hoodie.jpg","rating":4.8,"reviews":456,"inStock":true,"description":"Comfortable fleece-lined hoodie","specs":{"material":"80% Cotton, 20% Polyester","color":"Black, Gray, Navy","weight":"280 gsm","printArea":"Front 10\" x 12\""},"personalizationOptions":["Front Print","Back Print"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/423f6a52037eb7eb.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/36f8386969d5712b.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/8850c75f79a345d0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
